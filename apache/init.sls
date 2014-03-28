@@ -4,4 +4,4 @@ apache2:
   service:
     - running
     - watch:
-      - pkg: apache
+      - pkg: apache2
